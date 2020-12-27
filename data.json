@@ -10,7 +10,7 @@
         {
             "Name": "Fur fish",
             "Second name": "బొచ్చు చేప",
-            "price": "210",
+            "price": "280",
             "quantity": "37",
             "image": "https://github.com/bomminisivaprasad/testmode/issues/3#issue-772038674"
         },
@@ -21,13 +21,15 @@
             "quantity": "66",
             "image": "https://github.com/bomminisivaprasad/testmode/issues/4#issue-772045368"
         },
-{
+		{
             "Name": "koramenu ",
             "Second name": "కోరమేను చేప",
             "price": "500",
             "quantity": "66",
             "image": "https://github.com/bomminisivaprasad/testmode/issues/4#issue-772045368"
         }
+		
+
 
     ]
 }
