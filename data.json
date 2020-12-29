@@ -21,15 +21,20 @@
             "quantity": "66",
             "image": "https://github.com/bomminisivaprasad/testmode/issues/4#issue-772045368"
         },
-		{
-            "Name": "koramenu ",
-            "Second name": "కోరమేను చేప",
-            "price": "500",
-            "quantity": "66",
-            "image": "https://github.com/bomminisivaprasad/testmode/issues/4#issue-772045368"
+	{
+            "Name": "siva ",
+            "Second name": "చేప",
+            "price": "110",
+            "quantity": "166",
+            "image": "https://github.com/bomminisivaprasad/testmode/issues/4#issue"
+        },
+	{
+            "Name": "siva ",
+            "Second name": "చేప",
+            "price": "110",
+            "quantity": "166",
+            "image": "https://github.com/bomminisivaprasad/testmode/issues/4#issue"
         }
-		
-
 
     ]
 }
